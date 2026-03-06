@@ -3,7 +3,7 @@
 A simple Weather Application built using Python with a graphical user interface created using Tkinter.  
 This app allows users to check the current weather of any city using the OpenWeather API.
 
-## 🚀 Features
+## 🚀 Features of project
 - Search weather by city name
 - Shows temperature in Celsius
 - Displays weather condition
